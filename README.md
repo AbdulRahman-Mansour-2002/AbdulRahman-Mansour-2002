@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulRahman-Mansour-2002
-- 👀 I’m interested in embedded systmes programming - ROS programming and electronics 
+- 👀 I’m interested - Digital FPGA / ASIC  design and verification - embedded systmes programming 
 - 🌱 I’m currently learning Electrical Engineering 
 - 💞️ I’m looking to collaborate on UGV rover ( localization system )
 - 📫 How to reach me via gmail : abdulrahmanmansour98@gmail.com
